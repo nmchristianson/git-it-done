@@ -9,3 +9,4 @@ var getUserRepos = function(user) {
       });
     });
   };
+  getUserRepos("lernantino");
